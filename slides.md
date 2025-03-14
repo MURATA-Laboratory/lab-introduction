@@ -103,7 +103,7 @@ transition: slide-up
 - でも，話を聞いてくれる人がいつもいるわけじゃない...<br> ⇨ 情報機器に聞き手になってもらう‼️
 <!-- <carbon-badge /> -->
 
-## <span class="text-pink-500">話を上手に聞く方法</span>：傾聴態度を示す
+## 話を上手に聞く方法：<span class="text-pink-500">傾聴態度を示す</span>
 
 - 適度に相槌する
 - 共感する
